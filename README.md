@@ -2,7 +2,7 @@
 CS-320 Summery and Retrospective
 
 How can I ensure that my code, program, or software is functional and secure?
-->
+->d
 
 How do I interpret user needs and incorporate them into a program?
 ->
